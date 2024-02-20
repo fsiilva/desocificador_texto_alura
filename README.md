@@ -1,9 +1,9 @@
-# Alura Challenge #1 | Oracle One | Decodificador de texto
+# Alura Challenge | Oracle One | Decodificador de texto
 
 
 Sobre o Projeto
 ---
-Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura:
+Resultado do desafio do programa ONE, da Oracle em parceria com a Alura:
 - Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
 <p align="center" >
